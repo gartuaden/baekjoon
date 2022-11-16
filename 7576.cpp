@@ -90,7 +90,7 @@ int main(int argc, const char * argv[])
         
     }
     
-    cout << day;
+    cout << day; 
     
     return 0;
 
